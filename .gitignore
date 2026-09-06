@@ -1,0 +1,39 @@
+__pycache__/
+*.pyc
+data/extracted/
+references/**/*.pak
+tools/vendor/*.zip
+user-data/
+tests/output/
+
+# Local builds, generated sources and release staging
+/*.exe
+/app-lucky/generated/
+/dist/
+*.tmp
+*.bak
+
+# Private preferences, credentials and machine-specific files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vs/
+.idea/
+
+# Original user uploads and mod archives are local research inputs.
+# Only the header image is needed by the application.
+/references/*
+!/references/mod-luckygames/
+/references/mod-luckygames/*
+!/references/mod-luckygames/scenario0_1024x512.jpg
+/tools/vendor/
+/docs/research/
+
+# Reproducible investigation outputs, unused at runtime
+/data/maps/bakhmut/heightmap.npy
+/data/maps/bakhmut/*-preview.*
+/data/maps/bakhmut/*-review.*
+/data/maps/bakhmut/topography-roads.json
+/data/maps/bakhmut/editor-road-splines.json

@@ -1,0 +1,790 @@
+[
+  {
+    "id": "he4",
+    "shell": "О-832ДУ · осколочный",
+    "rings": 4,
+    "source": "references/screenshots/2.jpg",
+    "rows": [
+      {
+        "distance": 400,
+        "elevation": 1419,
+        "seconds": 33.0
+      },
+      {
+        "distance": 500,
+        "elevation": 1398,
+        "seconds": 32.9
+      },
+      {
+        "distance": 600,
+        "elevation": 1377,
+        "seconds": 32.9
+      },
+      {
+        "distance": 700,
+        "elevation": 1355,
+        "seconds": 32.8
+      },
+      {
+        "distance": 800,
+        "elevation": 1333,
+        "seconds": 32.6
+      },
+      {
+        "distance": 900,
+        "elevation": 1311,
+        "seconds": 32.5
+      },
+      {
+        "distance": 1000,
+        "elevation": 1288,
+        "seconds": 32.3
+      },
+      {
+        "distance": 1100,
+        "elevation": 1265,
+        "seconds": 32.1
+      },
+      {
+        "distance": 1200,
+        "elevation": 1240,
+        "seconds": 31.9
+      },
+      {
+        "distance": 1300,
+        "elevation": 1216,
+        "seconds": 31.7
+      },
+      {
+        "distance": 1400,
+        "elevation": 1189,
+        "seconds": 31.4
+      },
+      {
+        "distance": 1500,
+        "elevation": 1162,
+        "seconds": 31.1
+      },
+      {
+        "distance": 1600,
+        "elevation": 1134,
+        "seconds": 30.8
+      },
+      {
+        "distance": 1700,
+        "elevation": 1103,
+        "seconds": 30.4
+      },
+      {
+        "distance": 1800,
+        "elevation": 1071,
+        "seconds": 29.9
+      },
+      {
+        "distance": 1900,
+        "elevation": 1036,
+        "seconds": 29.4
+      },
+      {
+        "distance": 2000,
+        "elevation": 996,
+        "seconds": 28.8
+      },
+      {
+        "distance": 2100,
+        "elevation": 952,
+        "seconds": 28.0
+      },
+      {
+        "distance": 2200,
+        "elevation": 899,
+        "seconds": 27.0
+      },
+      {
+        "distance": 2300,
+        "elevation": 825,
+        "seconds": 25.5
+      }
+    ]
+  },
+  {
+    "id": "he3",
+    "shell": "О-832ДУ · осколочный",
+    "rings": 3,
+    "source": "references/screenshots/3.jpg",
+    "rows": [
+      {
+        "distance": 300,
+        "elevation": 1423,
+        "seconds": 29.0
+      },
+      {
+        "distance": 400,
+        "elevation": 1397,
+        "seconds": 28.9
+      },
+      {
+        "distance": 500,
+        "elevation": 1370,
+        "seconds": 28.8
+      },
+      {
+        "distance": 600,
+        "elevation": 1343,
+        "seconds": 28.7
+      },
+      {
+        "distance": 700,
+        "elevation": 1316,
+        "seconds": 28.6
+      },
+      {
+        "distance": 800,
+        "elevation": 1287,
+        "seconds": 28.4
+      },
+      {
+        "distance": 900,
+        "elevation": 1257,
+        "seconds": 28.2
+      },
+      {
+        "distance": 1000,
+        "elevation": 1227,
+        "seconds": 27.9
+      },
+      {
+        "distance": 1100,
+        "elevation": 1194,
+        "seconds": 27.6
+      },
+      {
+        "distance": 1200,
+        "elevation": 1160,
+        "seconds": 27.3
+      },
+      {
+        "distance": 1300,
+        "elevation": 1125,
+        "seconds": 26.9
+      },
+      {
+        "distance": 1400,
+        "elevation": 1085,
+        "seconds": 26.4
+      },
+      {
+        "distance": 1500,
+        "elevation": 1042,
+        "seconds": 25.9
+      },
+      {
+        "distance": 1600,
+        "elevation": 993,
+        "seconds": 25.2
+      },
+      {
+        "distance": 1700,
+        "elevation": 935,
+        "seconds": 24.3
+      },
+      {
+        "distance": 1800,
+        "elevation": 855,
+        "seconds": 22.9
+      }
+    ]
+  },
+  {
+    "id": "he2",
+    "shell": "О-832ДУ · осколочный",
+    "rings": 2,
+    "source": "references/screenshots/4.jpg",
+    "rows": [
+      {
+        "distance": 200,
+        "elevation": 1432,
+        "seconds": 24.8
+      },
+      {
+        "distance": 300,
+        "elevation": 1397,
+        "seconds": 24.8
+      },
+      {
+        "distance": 400,
+        "elevation": 1362,
+        "seconds": 24.7
+      },
+      {
+        "distance": 500,
+        "elevation": 1326,
+        "seconds": 24.5
+      },
+      {
+        "distance": 600,
+        "elevation": 1288,
+        "seconds": 24.3
+      },
+      {
+        "distance": 700,
+        "elevation": 1249,
+        "seconds": 24.1
+      },
+      {
+        "distance": 800,
+        "elevation": 1208,
+        "seconds": 23.8
+      },
+      {
+        "distance": 900,
+        "elevation": 1163,
+        "seconds": 23.4
+      },
+      {
+        "distance": 1000,
+        "elevation": 1115,
+        "seconds": 22.9
+      },
+      {
+        "distance": 1100,
+        "elevation": 1062,
+        "seconds": 22.4
+      },
+      {
+        "distance": 1200,
+        "elevation": 999,
+        "seconds": 21.6
+      },
+      {
+        "distance": 1300,
+        "elevation": 917,
+        "seconds": 20.5
+      },
+      {
+        "distance": 1400,
+        "elevation": 765,
+        "seconds": 18.1
+      }
+    ]
+  },
+  {
+    "id": "he1",
+    "shell": "О-832ДУ · осколочный",
+    "rings": 1,
+    "source": "references/screenshots/5.jpg",
+    "rows": [
+      {
+        "distance": 100,
+        "elevation": 1446,
+        "seconds": 19.5
+      },
+      {
+        "distance": 200,
+        "elevation": 1392,
+        "seconds": 19.4
+      },
+      {
+        "distance": 300,
+        "elevation": 1336,
+        "seconds": 19.2
+      },
+      {
+        "distance": 400,
+        "elevation": 1276,
+        "seconds": 19.0
+      },
+      {
+        "distance": 500,
+        "elevation": 1213,
+        "seconds": 18.7
+      },
+      {
+        "distance": 600,
+        "elevation": 1142,
+        "seconds": 18.2
+      },
+      {
+        "distance": 700,
+        "elevation": 1060,
+        "seconds": 17.5
+      },
+      {
+        "distance": 800,
+        "elevation": 955,
+        "seconds": 16.5
+      }
+    ]
+  },
+  {
+    "id": "he0",
+    "shell": "О-832ДУ · осколочный",
+    "rings": 0,
+    "source": "references/screenshots/6.jpg",
+    "rows": [
+      {
+        "distance": 50,
+        "elevation": 1456,
+        "seconds": 15.0
+      },
+      {
+        "distance": 100,
+        "elevation": 1411,
+        "seconds": 15.0
+      },
+      {
+        "distance": 150,
+        "elevation": 1365,
+        "seconds": 14.9
+      },
+      {
+        "distance": 200,
+        "elevation": 1319,
+        "seconds": 14.8
+      },
+      {
+        "distance": 250,
+        "elevation": 1269,
+        "seconds": 14.6
+      },
+      {
+        "distance": 300,
+        "elevation": 1218,
+        "seconds": 14.4
+      },
+      {
+        "distance": 350,
+        "elevation": 1160,
+        "seconds": 14.1
+      },
+      {
+        "distance": 400,
+        "elevation": 1097,
+        "seconds": 13.7
+      },
+      {
+        "distance": 450,
+        "elevation": 1025,
+        "seconds": 13.3
+      },
+      {
+        "distance": 500,
+        "elevation": 927,
+        "seconds": 12.5
+      }
+    ]
+  },
+  {
+    "id": "smoke3",
+    "shell": "Д-832ДУ · дымовой",
+    "rings": 3,
+    "source": "references/screenshots/7.jpg",
+    "rows": [
+      {
+        "distance": 400,
+        "elevation": 1387,
+        "seconds": 27.4
+      },
+      {
+        "distance": 500,
+        "elevation": 1358,
+        "seconds": 27.3
+      },
+      {
+        "distance": 600,
+        "elevation": 1328,
+        "seconds": 27.1
+      },
+      {
+        "distance": 700,
+        "elevation": 1297,
+        "seconds": 27.0
+      },
+      {
+        "distance": 800,
+        "elevation": 1265,
+        "seconds": 26.8
+      },
+      {
+        "distance": 900,
+        "elevation": 1231,
+        "seconds": 26.5
+      },
+      {
+        "distance": 1000,
+        "elevation": 1196,
+        "seconds": 26.2
+      },
+      {
+        "distance": 1100,
+        "elevation": 1160,
+        "seconds": 25.9
+      },
+      {
+        "distance": 1200,
+        "elevation": 1120,
+        "seconds": 25.5
+      },
+      {
+        "distance": 1300,
+        "elevation": 1077,
+        "seconds": 25.0
+      },
+      {
+        "distance": 1400,
+        "elevation": 1028,
+        "seconds": 24.4
+      },
+      {
+        "distance": 1500,
+        "elevation": 971,
+        "seconds": 23.6
+      },
+      {
+        "distance": 1600,
+        "elevation": 899,
+        "seconds": 22.5
+      },
+      {
+        "distance": 1700,
+        "elevation": 761,
+        "seconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "smoke2",
+    "shell": "Д-832ДУ · дымовой",
+    "rings": 2,
+    "source": "references/screenshots/8.jpg",
+    "rows": [
+      {
+        "distance": 300,
+        "elevation": 1388,
+        "seconds": 23.5
+      },
+      {
+        "distance": 400,
+        "elevation": 1349,
+        "seconds": 23.4
+      },
+      {
+        "distance": 500,
+        "elevation": 1309,
+        "seconds": 23.2
+      },
+      {
+        "distance": 600,
+        "elevation": 1267,
+        "seconds": 23.0
+      },
+      {
+        "distance": 700,
+        "elevation": 1223,
+        "seconds": 22.7
+      },
+      {
+        "distance": 800,
+        "elevation": 1176,
+        "seconds": 22.4
+      },
+      {
+        "distance": 900,
+        "elevation": 1124,
+        "seconds": 21.9
+      },
+      {
+        "distance": 1000,
+        "elevation": 1066,
+        "seconds": 21.3
+      },
+      {
+        "distance": 1100,
+        "elevation": 996,
+        "seconds": 20.5
+      },
+      {
+        "distance": 1200,
+        "elevation": 906,
+        "seconds": 19.3
+      }
+    ]
+  },
+  {
+    "id": "smoke1",
+    "shell": "Д-832ДУ · дымовой",
+    "rings": 1,
+    "source": "references/screenshots/9.jpg",
+    "rows": [
+      {
+        "distance": 200,
+        "elevation": 1381,
+        "seconds": 18.5
+      },
+      {
+        "distance": 300,
+        "elevation": 1319,
+        "seconds": 18.3
+      },
+      {
+        "distance": 400,
+        "elevation": 1253,
+        "seconds": 18.0
+      },
+      {
+        "distance": 500,
+        "elevation": 1180,
+        "seconds": 17.6
+      },
+      {
+        "distance": 600,
+        "elevation": 1098,
+        "seconds": 17.0
+      },
+      {
+        "distance": 700,
+        "elevation": 995,
+        "seconds": 16.1
+      },
+      {
+        "distance": 800,
+        "elevation": 816,
+        "seconds": 14.1
+      }
+    ]
+  },
+  {
+    "id": "smoke0",
+    "shell": "Д-832ДУ · дымовой",
+    "rings": 0,
+    "source": "references/screenshots/10.jpg",
+    "rows": [
+      {
+        "distance": 50,
+        "elevation": 1450,
+        "seconds": 14.1
+      },
+      {
+        "distance": 100,
+        "elevation": 1399,
+        "seconds": 14.1
+      },
+      {
+        "distance": 150,
+        "elevation": 1347,
+        "seconds": 13.9
+      },
+      {
+        "distance": 200,
+        "elevation": 1293,
+        "seconds": 13.8
+      },
+      {
+        "distance": 250,
+        "elevation": 1236,
+        "seconds": 13.6
+      },
+      {
+        "distance": 300,
+        "elevation": 1173,
+        "seconds": 13.3
+      },
+      {
+        "distance": 350,
+        "elevation": 1104,
+        "seconds": 12.9
+      },
+      {
+        "distance": 400,
+        "elevation": 1022,
+        "seconds": 12.4
+      },
+      {
+        "distance": 450,
+        "elevation": 904,
+        "seconds": 11.5
+      }
+    ]
+  },
+  {
+    "id": "illum4",
+    "shell": "С-832С · осветительный",
+    "rings": 4,
+    "source": "references/screenshots/11.jpg",
+    "rows": [
+      {
+        "distance": 400,
+        "elevation": 1411,
+        "seconds": 35.4
+      },
+      {
+        "distance": 500,
+        "elevation": 1388,
+        "seconds": 35.4
+      },
+      {
+        "distance": 600,
+        "elevation": 1365,
+        "seconds": 35.2
+      },
+      {
+        "distance": 700,
+        "elevation": 1341,
+        "seconds": 35.1
+      },
+      {
+        "distance": 800,
+        "elevation": 1317,
+        "seconds": 35.0
+      },
+      {
+        "distance": 900,
+        "elevation": 1292,
+        "seconds": 34.8
+      },
+      {
+        "distance": 1000,
+        "elevation": 1266,
+        "seconds": 34.6
+      },
+      {
+        "distance": 1100,
+        "elevation": 1239,
+        "seconds": 34.3
+      },
+      {
+        "distance": 1200,
+        "elevation": 1211,
+        "seconds": 34.0
+      },
+      {
+        "distance": 1300,
+        "elevation": 1182,
+        "seconds": 33.7
+      },
+      {
+        "distance": 1400,
+        "elevation": 1152,
+        "seconds": 33.4
+      },
+      {
+        "distance": 1500,
+        "elevation": 1120,
+        "seconds": 33.0
+      },
+      {
+        "distance": 1600,
+        "elevation": 1086,
+        "seconds": 32.5
+      },
+      {
+        "distance": 1700,
+        "elevation": 1050,
+        "seconds": 32.0
+      },
+      {
+        "distance": 1800,
+        "elevation": 1011,
+        "seconds": 31.3
+      },
+      {
+        "distance": 1900,
+        "elevation": 968,
+        "seconds": 30.6
+      },
+      {
+        "distance": 2000,
+        "elevation": 920,
+        "seconds": 29.7
+      },
+      {
+        "distance": 2100,
+        "elevation": 864,
+        "seconds": 28.6
+      },
+      {
+        "distance": 2200,
+        "elevation": 793,
+        "seconds": 27.1
+      }
+    ]
+  },
+  {
+    "id": "illum3",
+    "shell": "С-832С · осветительный",
+    "rings": 3,
+    "source": "references/screenshots/12.jpg",
+    "rows": [
+      {
+        "distance": 300,
+        "elevation": 1411,
+        "seconds": 29.1
+      },
+      {
+        "distance": 400,
+        "elevation": 1380,
+        "seconds": 29.0
+      },
+      {
+        "distance": 500,
+        "elevation": 1348,
+        "seconds": 28.8
+      },
+      {
+        "distance": 600,
+        "elevation": 1316,
+        "seconds": 28.7
+      },
+      {
+        "distance": 700,
+        "elevation": 1282,
+        "seconds": 28.5
+      },
+      {
+        "distance": 800,
+        "elevation": 1247,
+        "seconds": 28.2
+      },
+      {
+        "distance": 900,
+        "elevation": 1210,
+        "seconds": 27.9
+      },
+      {
+        "distance": 1000,
+        "elevation": 1171,
+        "seconds": 27.5
+      },
+      {
+        "distance": 1100,
+        "elevation": 1129,
+        "seconds": 27.1
+      },
+      {
+        "distance": 1200,
+        "elevation": 1084,
+        "seconds": 26.6
+      },
+      {
+        "distance": 1300,
+        "elevation": 1034,
+        "seconds": 26.0
+      },
+      {
+        "distance": 1400,
+        "elevation": 976,
+        "seconds": 25.1
+      },
+      {
+        "distance": 1500,
+        "elevation": 907,
+        "seconds": 24.1
+      },
+      {
+        "distance": 1600,
+        "elevation": 813,
+        "seconds": 22.5
+      }
+    ]
+  }
+]

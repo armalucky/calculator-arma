@@ -1,0 +1,2 @@
+# Preserve original bytes, including BOMs and line endings used by source hash checks.
+* -text

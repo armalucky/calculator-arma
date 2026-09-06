@@ -1,0 +1,82 @@
+[
+  {
+    "id": "B_MB:ConflictMilitaryBase",
+    "name": "Main base — South",
+    "sourceName": "Main base",
+    "x": 5065.893,
+    "z": 2174.682,
+    "source": "B_MB.layer"
+  },
+  {
+    "id": "B_MB:ConflictMilitaryBase2",
+    "name": "Main base — North",
+    "sourceName": "Main base",
+    "x": 4014.032,
+    "z": 8560.462,
+    "source": "B_MB.layer"
+  },
+  {
+    "id": "C_poins:ConflictMilitaryBase3",
+    "name": "trenchs",
+    "sourceName": "trenchs",
+    "x": 4458.304,
+    "z": 4429.205,
+    "source": "C_poins.layer"
+  },
+  {
+    "id": "C_poins:ConflictMilitaryBase4",
+    "name": "gym",
+    "sourceName": "gym",
+    "x": 4761.093,
+    "z": 5193.727,
+    "source": "C_poins.layer"
+  },
+  {
+    "id": "C_poins:ConflictMilitaryBase5",
+    "name": "church",
+    "sourceName": "church",
+    "x": 5195.927,
+    "z": 4648.643,
+    "source": "C_poins.layer"
+  },
+  {
+    "id": "C_poins:ConflictMilitaryBase6",
+    "name": "residential sector",
+    "sourceName": "residential sector",
+    "x": 5303.252,
+    "z": 5257.787,
+    "source": "C_poins.layer"
+  },
+  {
+    "id": "C_poins:ConflictMilitaryBase7",
+    "name": "AZOM Factory",
+    "sourceName": "AZOM Factory",
+    "x": 5068.665,
+    "z": 6320.56,
+    "source": "C_poins.layer"
+  },
+  {
+    "id": "C_poins:ConflictMilitaryBase8",
+    "name": "Forest",
+    "sourceName": "Forest",
+    "x": 5832.937,
+    "z": 5770.694,
+    "source": "C_poins.layer"
+  },
+  {
+    "id": "C_poins:ConflictMilitaryBase9",
+    "name": "yahidne",
+    "sourceName": "yahidne",
+    "x": 5258.634,
+    "z": 7015.986,
+    "source": "C_poins.layer"
+  },
+  {
+    "id": "C_poins:ConflictMilitaryBase10",
+    "name": "opytne",
+    "sourceName": "opytne",
+    "x": 5637.116,
+    "z": 3925.659,
+    "source": "C_poins.layer"
+  }
+]

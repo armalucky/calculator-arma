@@ -1,0 +1,2512 @@
+[
+  {
+    "id": "m777-1-high",
+    "weapon": "m777",
+    "unitsPerCircle": 6400,
+    "shell": "M107 HE",
+    "rings": 1,
+    "trajectory": "high",
+    "source": "2 (2).jpg",
+    "rows": [
+      {
+        "distance": 2800,
+        "elevation": 1279,
+        "seconds": 43.5,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 2900,
+        "elevation": 1266,
+        "seconds": 43.3,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 3000,
+        "elevation": 1252,
+        "seconds": 43.1,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 3100,
+        "elevation": 1237,
+        "seconds": 42.9,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 3200,
+        "elevation": 1223,
+        "seconds": 42.7,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 3300,
+        "elevation": 1208,
+        "seconds": 42.5,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 3400,
+        "elevation": 1192,
+        "seconds": 42.2,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 3500,
+        "elevation": 1176,
+        "seconds": 41.9,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 3600,
+        "elevation": 1160,
+        "seconds": 41.6,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 3700,
+        "elevation": 1143,
+        "seconds": 41.3,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 3800,
+        "elevation": 1125,
+        "seconds": 41.0,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 3900,
+        "elevation": 1106,
+        "seconds": 40.6,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 4000,
+        "elevation": 1087,
+        "seconds": 40.2,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 4100,
+        "elevation": 1066,
+        "seconds": 39.7,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 4200,
+        "elevation": 1044,
+        "seconds": 39.2,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 4300,
+        "elevation": 1020,
+        "seconds": 38.7,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      },
+      {
+        "distance": 4400,
+        "elevation": 993,
+        "seconds": 38.0,
+        "source": "references/m777-screenshots/2 (2).jpg"
+      }
+    ]
+  },
+  {
+    "id": "m777-2-high",
+    "weapon": "m777",
+    "unitsPerCircle": 6400,
+    "shell": "M107 HE",
+    "rings": 2,
+    "trajectory": "high",
+    "source": "3 (2).jpg",
+    "rows": [
+      {
+        "distance": 4400,
+        "elevation": 1257,
+        "seconds": 53.8,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      },
+      {
+        "distance": 4600,
+        "elevation": 1238,
+        "seconds": 53.4,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      },
+      {
+        "distance": 4800,
+        "elevation": 1218,
+        "seconds": 53.1,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      },
+      {
+        "distance": 5000,
+        "elevation": 1198,
+        "seconds": 52.6,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      },
+      {
+        "distance": 5200,
+        "elevation": 1177,
+        "seconds": 52.2,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      },
+      {
+        "distance": 5400,
+        "elevation": 1154,
+        "seconds": 51.7,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      },
+      {
+        "distance": 5600,
+        "elevation": 1131,
+        "seconds": 51.1,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      },
+      {
+        "distance": 5800,
+        "elevation": 1106,
+        "seconds": 50.5,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      },
+      {
+        "distance": 6000,
+        "elevation": 1079,
+        "seconds": 49.8,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      },
+      {
+        "distance": 6200,
+        "elevation": 1050,
+        "seconds": 49.0,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      },
+      {
+        "distance": 6400,
+        "elevation": 1018,
+        "seconds": 48.1,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      },
+      {
+        "distance": 6600,
+        "elevation": 982,
+        "seconds": 47.1,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      },
+      {
+        "distance": 6800,
+        "elevation": 940,
+        "seconds": 45.7,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      },
+      {
+        "distance": 7000,
+        "elevation": 884,
+        "seconds": 43.9,
+        "source": "references/m777-screenshots/3 (2).jpg"
+      }
+    ]
+  },
+  {
+    "id": "m777-3-high",
+    "weapon": "m777",
+    "unitsPerCircle": 6400,
+    "shell": "M107 HE",
+    "rings": 3,
+    "trajectory": "high",
+    "source": "4 (2).jpg",
+    "rows": [
+      {
+        "distance": 6800,
+        "elevation": 1271,
+        "seconds": 70.9,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 7000,
+        "elevation": 1259,
+        "seconds": 70.6,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 7200,
+        "elevation": 1247,
+        "seconds": 70.3,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 7400,
+        "elevation": 1235,
+        "seconds": 70.0,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 7600,
+        "elevation": 1222,
+        "seconds": 69.7,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 7800,
+        "elevation": 1210,
+        "seconds": 69.4,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 8000,
+        "elevation": 1197,
+        "seconds": 69.1,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 8200,
+        "elevation": 1183,
+        "seconds": 68.7,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 8400,
+        "elevation": 1169,
+        "seconds": 68.3,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 8600,
+        "elevation": 1155,
+        "seconds": 67.9,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 8800,
+        "elevation": 1141,
+        "seconds": 67.5,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 9000,
+        "elevation": 1126,
+        "seconds": 67.0,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 9200,
+        "elevation": 1110,
+        "seconds": 66.5,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 9400,
+        "elevation": 1094,
+        "seconds": 66.0,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 9600,
+        "elevation": 1077,
+        "seconds": 65.4,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 9800,
+        "elevation": 1060,
+        "seconds": 64.8,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 10000,
+        "elevation": 1041,
+        "seconds": 64.1,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 10200,
+        "elevation": 1021,
+        "seconds": 63.4,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 10400,
+        "elevation": 1000,
+        "seconds": 62.6,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 10600,
+        "elevation": 978,
+        "seconds": 61.8,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 10800,
+        "elevation": 953,
+        "seconds": 60.8,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 11000,
+        "elevation": 925,
+        "seconds": 59.6,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 11200,
+        "elevation": 893,
+        "seconds": 58.2,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      },
+      {
+        "distance": 11400,
+        "elevation": 853,
+        "seconds": 56.5,
+        "source": "references/m777-screenshots/4 (2).jpg"
+      }
+    ]
+  },
+  {
+    "id": "m777-4-high",
+    "weapon": "m777",
+    "unitsPerCircle": 6400,
+    "shell": "M107 HE",
+    "rings": 4,
+    "trajectory": "high",
+    "source": "5 (2).jpg | 6 (2).jpg",
+    "rows": [
+      {
+        "distance": 8800,
+        "elevation": 1274,
+        "seconds": 83.7,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 9000,
+        "elevation": 1265,
+        "seconds": 83.5,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 9200,
+        "elevation": 1256,
+        "seconds": 83.3,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 9400,
+        "elevation": 1247,
+        "seconds": 83.0,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 9600,
+        "elevation": 1238,
+        "seconds": 82.7,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 9800,
+        "elevation": 1228,
+        "seconds": 82.5,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 10000,
+        "elevation": 1218,
+        "seconds": 82.2,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 10200,
+        "elevation": 1209,
+        "seconds": 81.9,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 10400,
+        "elevation": 1199,
+        "seconds": 81.6,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 10600,
+        "elevation": 1189,
+        "seconds": 81.3,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 10800,
+        "elevation": 1178,
+        "seconds": 80.9,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 11000,
+        "elevation": 1168,
+        "seconds": 80.6,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 11200,
+        "elevation": 1157,
+        "seconds": 80.2,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 11400,
+        "elevation": 1146,
+        "seconds": 79.8,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 11600,
+        "elevation": 1135,
+        "seconds": 79.4,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 11800,
+        "elevation": 1123,
+        "seconds": 79.0,
+        "source": "references/m777-screenshots/5 (2).jpg"
+      },
+      {
+        "distance": 12000,
+        "elevation": 1111,
+        "seconds": 78.6,
+        "source": "references/m777-screenshots/5 (2).jpg | references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 12200,
+        "elevation": 1099,
+        "seconds": 78.1,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 12400,
+        "elevation": 1087,
+        "seconds": 77.6,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 12600,
+        "elevation": 1074,
+        "seconds": 77.1,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 12800,
+        "elevation": 1060,
+        "seconds": 76.6,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 13000,
+        "elevation": 1047,
+        "seconds": 76.0,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 13200,
+        "elevation": 1032,
+        "seconds": 75.4,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 13400,
+        "elevation": 1017,
+        "seconds": 74.8,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 13600,
+        "elevation": 1002,
+        "seconds": 74.1,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 13800,
+        "elevation": 985,
+        "seconds": 73.4,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 14000,
+        "elevation": 968,
+        "seconds": 72.6,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 14200,
+        "elevation": 949,
+        "seconds": 71.7,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 14400,
+        "elevation": 929,
+        "seconds": 70.8,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 14600,
+        "elevation": 907,
+        "seconds": 69.7,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 14800,
+        "elevation": 883,
+        "seconds": 68.5,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      },
+      {
+        "distance": 15000,
+        "elevation": 855,
+        "seconds": 67.0,
+        "source": "references/m777-screenshots/6 (2).jpg"
+      }
+    ]
+  },
+  {
+    "id": "m777-5-high",
+    "weapon": "m777",
+    "unitsPerCircle": 6400,
+    "shell": "M107 HE",
+    "rings": 5,
+    "trajectory": "high",
+    "source": "7 (2).jpg | 8 (2).jpg",
+    "rows": [
+      {
+        "distance": 10600,
+        "elevation": 1275,
+        "seconds": 94.7,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 10800,
+        "elevation": 1267,
+        "seconds": 94.5,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 11000,
+        "elevation": 1260,
+        "seconds": 94.3,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 11200,
+        "elevation": 1252,
+        "seconds": 94.0,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 11400,
+        "elevation": 1245,
+        "seconds": 93.8,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 11600,
+        "elevation": 1237,
+        "seconds": 93.6,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 11800,
+        "elevation": 1229,
+        "seconds": 93.3,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 12000,
+        "elevation": 1221,
+        "seconds": 93.0,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 12200,
+        "elevation": 1213,
+        "seconds": 92.8,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 12400,
+        "elevation": 1205,
+        "seconds": 92.5,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 12600,
+        "elevation": 1197,
+        "seconds": 92.2,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 12800,
+        "elevation": 1188,
+        "seconds": 91.9,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 13000,
+        "elevation": 1180,
+        "seconds": 91.6,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 13200,
+        "elevation": 1171,
+        "seconds": 91.3,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 13400,
+        "elevation": 1162,
+        "seconds": 90.9,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 13600,
+        "elevation": 1153,
+        "seconds": 90.6,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 13800,
+        "elevation": 1144,
+        "seconds": 90.3,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 14000,
+        "elevation": 1135,
+        "seconds": 89.9,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 14200,
+        "elevation": 1125,
+        "seconds": 89.5,
+        "source": "references/m777-screenshots/7 (2).jpg"
+      },
+      {
+        "distance": 14400,
+        "elevation": 1116,
+        "seconds": 89.1,
+        "source": "references/m777-screenshots/7 (2).jpg | references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 14600,
+        "elevation": 1106,
+        "seconds": 88.7,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 14800,
+        "elevation": 1096,
+        "seconds": 88.3,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 15000,
+        "elevation": 1086,
+        "seconds": 87.8,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 15200,
+        "elevation": 1075,
+        "seconds": 87.4,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 15400,
+        "elevation": 1064,
+        "seconds": 86.9,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 15600,
+        "elevation": 1053,
+        "seconds": 86.4,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 15800,
+        "elevation": 1042,
+        "seconds": 85.9,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 16000,
+        "elevation": 1030,
+        "seconds": 85.3,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 16200,
+        "elevation": 1018,
+        "seconds": 84.8,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 16400,
+        "elevation": 1006,
+        "seconds": 84.2,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 16600,
+        "elevation": 993,
+        "seconds": 83.5,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 16800,
+        "elevation": 979,
+        "seconds": 82.8,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 17000,
+        "elevation": 965,
+        "seconds": 82.1,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 17200,
+        "elevation": 950,
+        "seconds": 81.4,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 17400,
+        "elevation": 935,
+        "seconds": 80.5,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 17600,
+        "elevation": 918,
+        "seconds": 79.7,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 17800,
+        "elevation": 901,
+        "seconds": 78.7,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      },
+      {
+        "distance": 18000,
+        "elevation": 881,
+        "seconds": 77.6,
+        "source": "references/m777-screenshots/8 (2).jpg"
+      }
+    ]
+  },
+  {
+    "id": "m777-1-low",
+    "weapon": "m777",
+    "unitsPerCircle": 6400,
+    "shell": "M107 HE",
+    "rings": 1,
+    "trajectory": "low",
+    "source": "9 (2).jpg | 10 (2).jpg",
+    "rows": [
+      {
+        "distance": 200,
+        "elevation": 18,
+        "seconds": 0.9,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 300,
+        "elevation": 27,
+        "seconds": 1.3,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 400,
+        "elevation": 36,
+        "seconds": 1.7,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 500,
+        "elevation": 45,
+        "seconds": 2.2,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 600,
+        "elevation": 54,
+        "seconds": 2.6,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 700,
+        "elevation": 63,
+        "seconds": 3.0,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 800,
+        "elevation": 73,
+        "seconds": 3.4,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 900,
+        "elevation": 82,
+        "seconds": 3.9,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 1000,
+        "elevation": 91,
+        "seconds": 4.3,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 1100,
+        "elevation": 100,
+        "seconds": 4.7,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 1200,
+        "elevation": 110,
+        "seconds": 5.2,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 1300,
+        "elevation": 119,
+        "seconds": 5.7,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 1400,
+        "elevation": 129,
+        "seconds": 6.1,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 1500,
+        "elevation": 139,
+        "seconds": 6.6,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 1600,
+        "elevation": 149,
+        "seconds": 7.0,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 1700,
+        "elevation": 159,
+        "seconds": 7.5,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 1800,
+        "elevation": 170,
+        "seconds": 8.0,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 1900,
+        "elevation": 180,
+        "seconds": 8.5,
+        "source": "references/m777-screenshots/9 (2).jpg"
+      },
+      {
+        "distance": 2000,
+        "elevation": 191,
+        "seconds": 8.9,
+        "source": "references/m777-screenshots/9 (2).jpg | references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 2100,
+        "elevation": 201,
+        "seconds": 9.4,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 2200,
+        "elevation": 212,
+        "seconds": 9.9,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 2300,
+        "elevation": 223,
+        "seconds": 10.4,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 2400,
+        "elevation": 235,
+        "seconds": 10.9,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 2500,
+        "elevation": 246,
+        "seconds": 11.5,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 2600,
+        "elevation": 258,
+        "seconds": 12.0,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 2700,
+        "elevation": 270,
+        "seconds": 12.5,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 2800,
+        "elevation": 283,
+        "seconds": 13.1,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 2900,
+        "elevation": 295,
+        "seconds": 13.6,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 3000,
+        "elevation": 308,
+        "seconds": 14.2,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 3100,
+        "elevation": 321,
+        "seconds": 14.7,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 3200,
+        "elevation": 335,
+        "seconds": 15.3,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 3300,
+        "elevation": 349,
+        "seconds": 15.9,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 3400,
+        "elevation": 364,
+        "seconds": 16.6,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 3500,
+        "elevation": 379,
+        "seconds": 17.2,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 3600,
+        "elevation": 394,
+        "seconds": 17.8,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 3700,
+        "elevation": 410,
+        "seconds": 18.5,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 3800,
+        "elevation": 427,
+        "seconds": 19.2,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 3900,
+        "elevation": 445,
+        "seconds": 19.9,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      },
+      {
+        "distance": 4000,
+        "elevation": 464,
+        "seconds": 20.7,
+        "source": "references/m777-screenshots/10 (2).jpg"
+      }
+    ]
+  },
+  {
+    "id": "m777-2-low",
+    "weapon": "m777",
+    "unitsPerCircle": 6400,
+    "shell": "M107 HE",
+    "rings": 2,
+    "trajectory": "low",
+    "source": "11 (2).jpg | 12 (2).jpg",
+    "rows": [
+      {
+        "distance": 600,
+        "elevation": 32,
+        "seconds": 2.0,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 800,
+        "elevation": 43,
+        "seconds": 2.6,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 1000,
+        "elevation": 54,
+        "seconds": 3.3,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 1200,
+        "elevation": 66,
+        "seconds": 4.0,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 1400,
+        "elevation": 77,
+        "seconds": 4.7,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 1600,
+        "elevation": 89,
+        "seconds": 5.4,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 1800,
+        "elevation": 100,
+        "seconds": 6.1,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 2000,
+        "elevation": 112,
+        "seconds": 6.8,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 2200,
+        "elevation": 125,
+        "seconds": 7.6,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 2400,
+        "elevation": 137,
+        "seconds": 8.3,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 2600,
+        "elevation": 150,
+        "seconds": 9.1,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 2800,
+        "elevation": 164,
+        "seconds": 9.8,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 3000,
+        "elevation": 177,
+        "seconds": 10.6,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 3200,
+        "elevation": 191,
+        "seconds": 11.4,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 3400,
+        "elevation": 205,
+        "seconds": 12.2,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 3600,
+        "elevation": 219,
+        "seconds": 13.1,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 3800,
+        "elevation": 235,
+        "seconds": 13.9,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 4000,
+        "elevation": 250,
+        "seconds": 14.8,
+        "source": "references/m777-screenshots/11 (2).jpg"
+      },
+      {
+        "distance": 4200,
+        "elevation": 266,
+        "seconds": 15.7,
+        "source": "references/m777-screenshots/11 (2).jpg | references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 4400,
+        "elevation": 282,
+        "seconds": 16.6,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 4600,
+        "elevation": 299,
+        "seconds": 17.5,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 4800,
+        "elevation": 317,
+        "seconds": 18.5,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 5000,
+        "elevation": 336,
+        "seconds": 19.5,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 5200,
+        "elevation": 355,
+        "seconds": 20.5,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 5400,
+        "elevation": 376,
+        "seconds": 21.6,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 5600,
+        "elevation": 397,
+        "seconds": 22.7,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 5800,
+        "elevation": 421,
+        "seconds": 23.9,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 6000,
+        "elevation": 446,
+        "seconds": 25.2,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 6200,
+        "elevation": 473,
+        "seconds": 26.5,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 6400,
+        "elevation": 503,
+        "seconds": 28.0,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 6600,
+        "elevation": 537,
+        "seconds": 29.6,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 6800,
+        "elevation": 578,
+        "seconds": 31.5,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      },
+      {
+        "distance": 7000,
+        "elevation": 632,
+        "seconds": 34.0,
+        "source": "references/m777-screenshots/12 (2).jpg"
+      }
+    ]
+  },
+  {
+    "id": "m777-3-low",
+    "weapon": "m777",
+    "unitsPerCircle": 6400,
+    "shell": "M107 HE",
+    "rings": 3,
+    "trajectory": "low",
+    "source": "13.jpg | 14.jpg",
+    "rows": [
+      {
+        "distance": 1000,
+        "elevation": 28,
+        "seconds": 2.4,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 1200,
+        "elevation": 33,
+        "seconds": 2.9,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 1400,
+        "elevation": 39,
+        "seconds": 3.3,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 1600,
+        "elevation": 44,
+        "seconds": 3.8,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 1800,
+        "elevation": 50,
+        "seconds": 4.3,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 2000,
+        "elevation": 56,
+        "seconds": 4.8,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 2200,
+        "elevation": 62,
+        "seconds": 5.3,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 2400,
+        "elevation": 68,
+        "seconds": 5.8,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 2600,
+        "elevation": 74,
+        "seconds": 6.3,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 2800,
+        "elevation": 80,
+        "seconds": 6.9,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 3000,
+        "elevation": 87,
+        "seconds": 7.4,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 3200,
+        "elevation": 93,
+        "seconds": 7.9,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 3400,
+        "elevation": 100,
+        "seconds": 8.5,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 3600,
+        "elevation": 106,
+        "seconds": 9.0,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 3800,
+        "elevation": 113,
+        "seconds": 9.6,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 4000,
+        "elevation": 120,
+        "seconds": 10.2,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 4200,
+        "elevation": 127,
+        "seconds": 10.7,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 4400,
+        "elevation": 134,
+        "seconds": 11.3,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 4600,
+        "elevation": 142,
+        "seconds": 11.9,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 4800,
+        "elevation": 149,
+        "seconds": 12.5,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 5000,
+        "elevation": 157,
+        "seconds": 13.1,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 5200,
+        "elevation": 165,
+        "seconds": 13.7,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 5400,
+        "elevation": 173,
+        "seconds": 14.4,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 5600,
+        "elevation": 181,
+        "seconds": 15.0,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 5800,
+        "elevation": 189,
+        "seconds": 15.6,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 6000,
+        "elevation": 197,
+        "seconds": 16.3,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 6200,
+        "elevation": 206,
+        "seconds": 17.0,
+        "source": "references/m777-screenshots/13.jpg"
+      },
+      {
+        "distance": 6400,
+        "elevation": 215,
+        "seconds": 17.6,
+        "source": "references/m777-screenshots/13.jpg | references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 6600,
+        "elevation": 224,
+        "seconds": 18.3,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 6800,
+        "elevation": 233,
+        "seconds": 19.0,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 7000,
+        "elevation": 243,
+        "seconds": 19.7,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 7200,
+        "elevation": 252,
+        "seconds": 20.5,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 7400,
+        "elevation": 262,
+        "seconds": 21.2,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 7600,
+        "elevation": 273,
+        "seconds": 22.0,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 7800,
+        "elevation": 283,
+        "seconds": 22.7,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 8000,
+        "elevation": 294,
+        "seconds": 23.5,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 8200,
+        "elevation": 306,
+        "seconds": 24.3,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 8400,
+        "elevation": 317,
+        "seconds": 25.2,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 8600,
+        "elevation": 329,
+        "seconds": 26.0,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 8800,
+        "elevation": 342,
+        "seconds": 26.9,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 9000,
+        "elevation": 355,
+        "seconds": 27.8,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 9200,
+        "elevation": 368,
+        "seconds": 28.8,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 9400,
+        "elevation": 383,
+        "seconds": 29.7,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 9600,
+        "elevation": 398,
+        "seconds": 30.7,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 9800,
+        "elevation": 413,
+        "seconds": 31.8,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 10000,
+        "elevation": 430,
+        "seconds": 32.9,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 10200,
+        "elevation": 448,
+        "seconds": 34.1,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 10400,
+        "elevation": 467,
+        "seconds": 35.3,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 10600,
+        "elevation": 488,
+        "seconds": 36.6,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 10800,
+        "elevation": 511,
+        "seconds": 38.0,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 11000,
+        "elevation": 537,
+        "seconds": 39.6,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 11200,
+        "elevation": 567,
+        "seconds": 41.5,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 11400,
+        "elevation": 606,
+        "seconds": 43.7,
+        "source": "references/m777-screenshots/14.jpg"
+      },
+      {
+        "distance": 11600,
+        "elevation": 664,
+        "seconds": 47.0,
+        "source": "references/m777-screenshots/14.jpg"
+      }
+    ]
+  },
+  {
+    "id": "m777-4-low",
+    "weapon": "m777",
+    "unitsPerCircle": 6400,
+    "shell": "M107 HE",
+    "rings": 4,
+    "trajectory": "low",
+    "source": "15.jpg | 16.jpg | 17.jpg",
+    "rows": [
+      {
+        "distance": 1600,
+        "elevation": 27,
+        "seconds": 3.0,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 1800,
+        "elevation": 31,
+        "seconds": 3.4,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 2000,
+        "elevation": 34,
+        "seconds": 3.8,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 2200,
+        "elevation": 38,
+        "seconds": 4.2,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 2400,
+        "elevation": 42,
+        "seconds": 4.6,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 2600,
+        "elevation": 46,
+        "seconds": 5.0,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 2800,
+        "elevation": 49,
+        "seconds": 5.4,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 3000,
+        "elevation": 53,
+        "seconds": 5.8,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 3200,
+        "elevation": 57,
+        "seconds": 6.2,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 3400,
+        "elevation": 61,
+        "seconds": 6.7,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 3600,
+        "elevation": 66,
+        "seconds": 7.1,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 3800,
+        "elevation": 70,
+        "seconds": 7.5,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 4000,
+        "elevation": 74,
+        "seconds": 8.0,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 4200,
+        "elevation": 78,
+        "seconds": 8.4,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 4400,
+        "elevation": 82,
+        "seconds": 8.8,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 4600,
+        "elevation": 87,
+        "seconds": 9.3,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 4800,
+        "elevation": 91,
+        "seconds": 9.8,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 5000,
+        "elevation": 96,
+        "seconds": 10.2,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 5200,
+        "elevation": 100,
+        "seconds": 10.7,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 5400,
+        "elevation": 105,
+        "seconds": 11.2,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 5600,
+        "elevation": 110,
+        "seconds": 11.7,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 5800,
+        "elevation": 115,
+        "seconds": 12.1,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 6000,
+        "elevation": 120,
+        "seconds": 12.6,
+        "source": "references/m777-screenshots/15.jpg"
+      },
+      {
+        "distance": 6200,
+        "elevation": 125,
+        "seconds": 13.1,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 6400,
+        "elevation": 130,
+        "seconds": 13.6,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 6600,
+        "elevation": 135,
+        "seconds": 14.2,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 6800,
+        "elevation": 140,
+        "seconds": 14.7,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 7000,
+        "elevation": 146,
+        "seconds": 15.2,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 7200,
+        "elevation": 151,
+        "seconds": 15.7,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 7400,
+        "elevation": 157,
+        "seconds": 16.3,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 7600,
+        "elevation": 163,
+        "seconds": 16.8,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 7800,
+        "elevation": 169,
+        "seconds": 17.4,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 8000,
+        "elevation": 174,
+        "seconds": 17.9,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 8200,
+        "elevation": 181,
+        "seconds": 18.5,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 8400,
+        "elevation": 187,
+        "seconds": 19.1,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 8600,
+        "elevation": 193,
+        "seconds": 19.7,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 8800,
+        "elevation": 199,
+        "seconds": 20.3,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 9000,
+        "elevation": 206,
+        "seconds": 20.9,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 9200,
+        "elevation": 213,
+        "seconds": 21.5,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 9400,
+        "elevation": 220,
+        "seconds": 22.1,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 9600,
+        "elevation": 227,
+        "seconds": 22.8,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 9800,
+        "elevation": 234,
+        "seconds": 23.4,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 10000,
+        "elevation": 241,
+        "seconds": 24.1,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 10200,
+        "elevation": 249,
+        "seconds": 24.7,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 10400,
+        "elevation": 256,
+        "seconds": 25.4,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 10600,
+        "elevation": 264,
+        "seconds": 26.1,
+        "source": "references/m777-screenshots/16.jpg"
+      },
+      {
+        "distance": 10800,
+        "elevation": 272,
+        "seconds": 26.8,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 11000,
+        "elevation": 281,
+        "seconds": 27.6,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 11200,
+        "elevation": 289,
+        "seconds": 28.3,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 11400,
+        "elevation": 298,
+        "seconds": 29.0,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 11600,
+        "elevation": 307,
+        "seconds": 29.8,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 11800,
+        "elevation": 317,
+        "seconds": 30.6,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 12000,
+        "elevation": 326,
+        "seconds": 31.4,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 12200,
+        "elevation": 336,
+        "seconds": 32.3,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 12400,
+        "elevation": 347,
+        "seconds": 33.1,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 12600,
+        "elevation": 358,
+        "seconds": 34.0,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 12800,
+        "elevation": 369,
+        "seconds": 34.9,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 13000,
+        "elevation": 381,
+        "seconds": 35.9,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 13200,
+        "elevation": 393,
+        "seconds": 36.8,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 13400,
+        "elevation": 406,
+        "seconds": 37.8,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 13600,
+        "elevation": 420,
+        "seconds": 38.9,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 13800,
+        "elevation": 434,
+        "seconds": 40.0,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 14000,
+        "elevation": 450,
+        "seconds": 41.2,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 14200,
+        "elevation": 467,
+        "seconds": 42.4,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 14400,
+        "elevation": 485,
+        "seconds": 43.8,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 14600,
+        "elevation": 505,
+        "seconds": 45.2,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 14800,
+        "elevation": 527,
+        "seconds": 46.8,
+        "source": "references/m777-screenshots/17.jpg"
+      },
+      {
+        "distance": 15000,
+        "elevation": 553,
+        "seconds": 48.7,
+        "source": "references/m777-screenshots/17.jpg"
+      }
+    ]
+  },
+  {
+    "id": "m777-5-low",
+    "weapon": "m777",
+    "unitsPerCircle": 6400,
+    "shell": "M107 HE",
+    "rings": 5,
+    "trajectory": "low",
+    "source": "18.jpg | 19.jpg | 20.jpg",
+    "rows": [
+      {
+        "distance": 2000,
+        "elevation": 23,
+        "seconds": 3.1,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 2200,
+        "elevation": 25,
+        "seconds": 3.4,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 2400,
+        "elevation": 28,
+        "seconds": 3.7,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 2600,
+        "elevation": 31,
+        "seconds": 4.1,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 2800,
+        "elevation": 33,
+        "seconds": 4.4,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 3000,
+        "elevation": 36,
+        "seconds": 4.7,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 3200,
+        "elevation": 38,
+        "seconds": 5.1,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 3400,
+        "elevation": 41,
+        "seconds": 5.4,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 3600,
+        "elevation": 44,
+        "seconds": 5.8,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 3800,
+        "elevation": 47,
+        "seconds": 6.1,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 4000,
+        "elevation": 49,
+        "seconds": 6.5,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 4200,
+        "elevation": 52,
+        "seconds": 6.9,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 4400,
+        "elevation": 55,
+        "seconds": 7.2,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 4600,
+        "elevation": 58,
+        "seconds": 7.6,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 4800,
+        "elevation": 61,
+        "seconds": 8.0,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 5000,
+        "elevation": 64,
+        "seconds": 8.4,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 5200,
+        "elevation": 67,
+        "seconds": 8.7,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 5400,
+        "elevation": 70,
+        "seconds": 9.1,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 5600,
+        "elevation": 73,
+        "seconds": 9.5,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 5800,
+        "elevation": 77,
+        "seconds": 9.9,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 6000,
+        "elevation": 80,
+        "seconds": 10.3,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 6200,
+        "elevation": 83,
+        "seconds": 10.7,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 6400,
+        "elevation": 87,
+        "seconds": 11.1,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 6600,
+        "elevation": 90,
+        "seconds": 11.5,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 6800,
+        "elevation": 93,
+        "seconds": 12.0,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 7000,
+        "elevation": 97,
+        "seconds": 12.4,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 7200,
+        "elevation": 101,
+        "seconds": 12.8,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 7400,
+        "elevation": 104,
+        "seconds": 13.2,
+        "source": "references/m777-screenshots/18.jpg"
+      },
+      {
+        "distance": 7600,
+        "elevation": 108,
+        "seconds": 13.7,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 7800,
+        "elevation": 112,
+        "seconds": 14.1,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 8000,
+        "elevation": 116,
+        "seconds": 14.6,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 8200,
+        "elevation": 119,
+        "seconds": 15.0,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 8400,
+        "elevation": 123,
+        "seconds": 15.5,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 8600,
+        "elevation": 127,
+        "seconds": 15.9,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 8800,
+        "elevation": 132,
+        "seconds": 16.4,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 9000,
+        "elevation": 136,
+        "seconds": 16.9,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 9200,
+        "elevation": 140,
+        "seconds": 17.4,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 9400,
+        "elevation": 144,
+        "seconds": 17.9,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 9600,
+        "elevation": 149,
+        "seconds": 18.3,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 9800,
+        "elevation": 153,
+        "seconds": 18.8,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 10000,
+        "elevation": 158,
+        "seconds": 19.4,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 10200,
+        "elevation": 162,
+        "seconds": 19.9,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 10400,
+        "elevation": 167,
+        "seconds": 20.4,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 10600,
+        "elevation": 172,
+        "seconds": 20.9,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 10800,
+        "elevation": 177,
+        "seconds": 21.5,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 11000,
+        "elevation": 182,
+        "seconds": 22.0,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 11200,
+        "elevation": 187,
+        "seconds": 22.5,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 11400,
+        "elevation": 192,
+        "seconds": 23.1,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 11600,
+        "elevation": 197,
+        "seconds": 23.7,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 11800,
+        "elevation": 203,
+        "seconds": 24.2,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 12000,
+        "elevation": 208,
+        "seconds": 24.8,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 12200,
+        "elevation": 214,
+        "seconds": 25.4,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 12400,
+        "elevation": 220,
+        "seconds": 26.0,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 12600,
+        "elevation": 226,
+        "seconds": 26.6,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 12800,
+        "elevation": 232,
+        "seconds": 27.3,
+        "source": "references/m777-screenshots/19.jpg"
+      },
+      {
+        "distance": 13000,
+        "elevation": 238,
+        "seconds": 27.9,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 13200,
+        "elevation": 244,
+        "seconds": 28.5,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 13400,
+        "elevation": 251,
+        "seconds": 29.2,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 13600,
+        "elevation": 258,
+        "seconds": 29.8,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 13800,
+        "elevation": 264,
+        "seconds": 30.5,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 14000,
+        "elevation": 271,
+        "seconds": 31.2,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 14200,
+        "elevation": 279,
+        "seconds": 31.9,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 14400,
+        "elevation": 286,
+        "seconds": 32.6,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 14600,
+        "elevation": 294,
+        "seconds": 33.4,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 14800,
+        "elevation": 301,
+        "seconds": 34.1,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 15000,
+        "elevation": 309,
+        "seconds": 34.9,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 15200,
+        "elevation": 318,
+        "seconds": 35.7,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 15400,
+        "elevation": 326,
+        "seconds": 36.5,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 15600,
+        "elevation": 335,
+        "seconds": 37.3,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 15800,
+        "elevation": 345,
+        "seconds": 38.2,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 16000,
+        "elevation": 354,
+        "seconds": 39.1,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 16200,
+        "elevation": 364,
+        "seconds": 40.0,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 16400,
+        "elevation": 374,
+        "seconds": 40.9,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 16600,
+        "elevation": 385,
+        "seconds": 41.9,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 16800,
+        "elevation": 397,
+        "seconds": 42.9,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 17000,
+        "elevation": 409,
+        "seconds": 43.9,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 17200,
+        "elevation": 422,
+        "seconds": 45.0,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 17400,
+        "elevation": 435,
+        "seconds": 46.2,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 17600,
+        "elevation": 450,
+        "seconds": 47.4,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 17800,
+        "elevation": 465,
+        "seconds": 48.7,
+        "source": "references/m777-screenshots/20.jpg"
+      },
+      {
+        "distance": 18000,
+        "elevation": 482,
+        "seconds": 50.1,
+        "source": "references/m777-screenshots/20.jpg"
+      }
+    ]
+  }
+]

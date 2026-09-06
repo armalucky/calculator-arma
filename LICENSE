@@ -1,0 +1,85 @@
+LuckyMap Noncommercial License
+Version 1.0 — 6 September 2026
+
+Copyright (c) 2026 ayezhiest and the respective copyright holders.
+
+1. Scope and definitions
+
+"Software" means the original LuckyMap project code and documentation made
+available under this license, including modifications to that material.
+"Licensor" means the holder of the rights being licensed. For the original
+project material, the project maintainer is identified by the GitHub handle
+ayezhiest. Each Licensor grants only rights that the Licensor holds or is
+authorized to license.
+
+"Noncommercial" means use that is not primarily intended for or directed toward
+commercial advantage or monetary compensation. Providing something free of
+charge does not, by itself, make its use Noncommercial.
+
+2. Permission for Noncommercial use
+
+Subject to the conditions below, you may use, run, study, copy and modify the
+Software for personal and other Noncommercial purposes. You may distribute
+original or modified copies, in source or executable form, free of charge for
+Noncommercial purposes.
+
+When distributing the Software or modifications to it, you must:
+
+(a) retain the copyright notices and attribution to LuckyMap and ayezhiest,
+    together with any existing attribution to other contributors;
+(b) include a complete copy of this license with the distribution; and
+(c) clearly identify modifications you made and retain these license conditions
+    for the covered material in your modified version. You may add attribution
+    for your changes, but may not imply endorsement by the original authors.
+
+For executable distributions, a LICENSE file supplied alongside the executable
+is sufficient to include these terms. No permission to remove or replace these
+conditions on the covered material is granted.
+
+3. Commercial use requires separate written permission
+
+This license does not permit selling the Software or modified versions,
+including them in paid products or services, or otherwise using, modifying or
+distributing them for commercial purposes. These activities require prior,
+separate written permission from the relevant rights holder(s).
+
+Requests concerning the original LuckyMap project should be addressed to its
+maintainer, ayezhiest, through the contact channels provided on the project's
+official GitHub repository or profile. Silence, public availability of the
+source, and acceptance of a contribution do not constitute commercial
+permission. A separate written agreement may grant additional rights and
+controls to the extent it expressly differs from this license.
+
+4. Third-party materials and names
+
+This license does not relicense third-party code, game or mod files, map imagery,
+map data derived from third-party materials, screenshots, logos, fonts or other
+third-party assets. Their respective rights holders and applicable terms remain
+in effect. Inclusion in this repository does not grant rights to those assets.
+No trademark rights or permission to imply affiliation or endorsement are
+granted by this license.
+
+5. Rights reserved and termination
+
+All rights not expressly granted are reserved. Permissions under this license
+terminate if you fail to comply with its conditions. After termination, you
+must stop activities that require permission under this license unless the
+relevant rights holder reinstates your permissions in writing. This does not
+terminate permissions held by compliant recipients of previously distributed
+copies. Nothing here limits rights that applicable law provides independently
+of this license.
+
+6. No warranty; limitation of liability
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS",
+WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. TO THE SAME EXTENT, THE
+AUTHORS AND RIGHTS HOLDERS SHALL NOT BE LIABLE FOR CLAIMS, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE SOFTWARE OR ITS USE. These exclusions do not apply
+where applicable law does not allow them.
+
+7. Language
+
+The English text of this license is authoritative. LICENSE.ru.md is a Russian
+translation provided for convenience. If the texts differ, the English text
+controls to the extent permitted by applicable law.
