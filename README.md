@@ -10,6 +10,10 @@ Windows desktop map and game-table calculator for the Bakhmut map in **Arma Refo
 
 ## Run
 
+**For players:** download `LuckyMap-1.0.0-Windows.zip` from [Releases](https://github.com/ayezhiest/armacalcluckygames/releases/latest), extract the entire archive and run `LuckyMap.exe` inside the extracted folder. No build or Python installation is required. Choose the Windows ZIP attached to the release, not GitHub's automatically generated “Source code” archives.
+
+**Для игроков:** скачайте Windows ZIP в [Releases](https://github.com/ayezhiest/armacalcluckygames/releases/latest), полностью распакуйте и запустите `LuckyMap.exe`. Скачивать исходники и собирать проект не нужно.
+
 Run `LuckyMap.exe` from the project directory after building. Keep the `data` directory and `references/mod-luckygames/scenario0_1024x512.jpg` beside it.
 
 F11 toggles fullscreen; Esc returns to windowed mode. Ctrl+S saves all guns. Language and display mode are remembered separately. Local preferences and positions are stored in `user-data/`, which is excluded from Git.
@@ -25,6 +29,14 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File app-lucky/Build.ps1
 ```
 
 Close LuckyMap before rebuilding. Build output and generated localized C# sources are excluded from Git. The classic C# sources are shared inputs and must remain in the repository.
+
+To build a portable release with runtime assets and license files:
+
+```powershell
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File tools/Package-Release.ps1 -Version 1.0.0
+```
+
+The ZIP and SHA-256 checksum are written to `dist/`. Packaging uses an explicit runtime file list and never includes local saves, raw mod archives or development files.
 
 ## Verify
 
