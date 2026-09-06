@@ -1,5 +1,15 @@
 # LuckyMap
 
+## [⬇ Скачать для Windows / Download for Windows](https://github.com/ayezhiest/armacalcluckygames/releases/download/v1.0.0/LuckyMap-1.0.0-Windows.zip)
+
+**Готовое приложение · версия 1.0.0 · ZIP, 47 МБ.** Нажмите ссылку выше, полностью распакуйте архив и запустите `LuckyMap.exe`. Карта уже внутри — сборка не нужна.
+
+**Ready to run · version 1.0.0 · 47 MB ZIP.** Click the link above, extract the entire archive and run `LuckyMap.exe`. Map files are included; no build required.
+
+[Все версии / All releases](https://github.com/ayezhiest/armacalcluckygames/releases)
+
+---
+
 Windows desktop map and game-table calculator for the Bakhmut map in **Arma Reforger**.
 
 - Up to six independent guns, shared targets and saved positions.
