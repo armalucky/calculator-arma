@@ -2,6 +2,13 @@
 
 These instructions apply to the entire repository.
 
+## Developer and license
+
+- Project developer: **Beld** — GitHub: https://github.com/kirsanovdmitriis-bit ; Steam: https://steamcommunity.com/id/Beldherder/ . The `by Beld` interface credit identifies the developer.
+- The project is governed by the LuckyMap Noncommercial License in `LICENSE` (English, authoritative) and `LICENSE.ru.md` (Russian translation).
+- Commercial use, sale, inclusion in paid products or services, commercial modification, and commercial distribution are not permitted without separate prior written permission from the respective rights holders, as stated in LICENSE section 3. Free access alone does not make a commercial use noncommercial.
+- Preserve the noncommercial terms and include the complete license when distributing the project. Do not describe it as permitting unrestricted commercial use or replace its license with a permissive license during routine maintenance.
+
 ## Preserve attribution
 
 - Keep the exact visible credit `by Beld` linked to `https://steamcommunity.com/id/Beldherder/` in the web and LuckyMap desktop interfaces.
