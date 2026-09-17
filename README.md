@@ -1,5 +1,15 @@
 # LuckyMap
 
+## Attribution / Указание авторства
+
+**[by Beld](https://steamcommunity.com/id/Beldherder/)** — сохраняемая подпись в веб-версии и настольной LuckyMap.
+
+Правило проекта для разработчиков и ИИ-агентов: сохранять видимую, читаемую и кликабельную подпись **by Beld** в нижнем правом углу основного интерфейса обеих версий. При изменении вёрстки допустимо перенести её в ближайшее доступное место нижней панели, но не скрывать, не заменять и не удалять ссылку `https://steamcommunity.com/id/Beldherder/`. Подпись должна оставаться доступной на обоих языках, при изменении размера окна и в полноэкранном режиме. Изменять это требование можно только по явному указанию владельца проекта; общая просьба о рефакторинге, очистке или редизайне таким указанием не является.
+
+См. [правила для ИИ-агентов](AGENTS.md). Раздел 2(a) действующей [LICENSE](LICENSE) предусматривает сохранение существующих указаний авторства участников при распространении. Конкретное расположение, текст и ссылка выше — правило сопровождения этого проекта; это не новая редакция лицензии. Исходные указания LuckyMap, ayezhiest и других правообладателей также сохраняются.
+
+**For contributors and AI agents:** preserve the visible, clickable **by Beld** credit and its Steam URL in both the web and LuckyMap desktop interfaces. Keep it readable in the bottom-right footer (or the nearest accessible footer position on narrow layouts), in both languages and fullscreen mode. Do not remove or hide it during refactoring or redesign. See [AGENTS.md](AGENTS.md) and section 2(a) of [LICENSE](LICENSE); this project maintenance rule does not amend the license.
+
 ## [⬇ Скачать для Windows / Download for Windows](https://github.com/ayezhiest/armacalcluckygames/releases/download/v1.0.0/LuckyMap-1.0.0-Windows.zip)
 
 **Готовое приложение · версия 1.0.0 · ZIP, 47 МБ.** Нажмите ссылку выше, полностью распакуйте архив и запустите `LuckyMap.exe`. Карта уже внутри — сборка не нужна.

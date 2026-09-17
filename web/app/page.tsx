@@ -53,6 +53,7 @@ export default function Home() {
     {preferencesError ? <p className="fullscreen-error" role="alert">{storageMessages[language].preferences}</p> : null}
     {help ? <Dialog title={labels.help} onClose={() => setHelp(false)}><p>{labels.helpText}</p><button onClick={() => setHelp(false)}>{labels.close}</button></Dialog> : null}
     <MapWorkspace language={language} preferences={preferences} onPreferences={updatePreferences} />
+    {/* Preserve visible by Beld attribution and Steam URL; see /AGENTS.md and /README.md. */}
     <footer className="app-footer"><span>LuckyMap · ayezhiest</span><span>{mapMessages[language].stage}</span><a className="author-credit" href="https://steamcommunity.com/id/Beldherder/" target="_blank" rel="noopener noreferrer">by Beld</a></footer>
   </div>;
 }
