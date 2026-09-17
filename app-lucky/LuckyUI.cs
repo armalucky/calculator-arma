@@ -186,7 +186,13 @@ namespace BakhmutMap {
             mapArea.ColumnStyles.Add(new ColumnStyle(SizeType.Percent,100));
             AddCalculationPanel(mapArea);RebuildCalculation();
             CalculationTabs.SelectedIndexChanged+=(s,e)=>{mapArea.RowStyles[1].Height=(CalculationTabs.SelectedIndex==0?234:290)*CurrentAutoScaleDimensions.Height/96f;};
-            status=new Label{Dock=DockStyle.Fill,TextAlign=ContentAlignment.MiddleLeft,ForeColor=LuckyTheme.Muted,Text="Выберите орудие, задайте позицию A и цель B",Padding=new Padding(8,0,0,0)};outer.Controls.Add(status,0,3);
+            var footer=new TableLayoutPanel{Dock=DockStyle.Fill,ColumnCount=2,RowCount=1,Margin=Padding.Empty,BackColor=LuckyTheme.Background};
+            footer.ColumnStyles.Add(new ColumnStyle(SizeType.Percent,100));footer.ColumnStyles.Add(new ColumnStyle(SizeType.Absolute,90));outer.Controls.Add(footer,0,3);
+            status=new Label{Dock=DockStyle.Fill,TextAlign=ContentAlignment.MiddleLeft,ForeColor=LuckyTheme.Muted,Text="Выберите орудие, задайте позицию A и цель B",Padding=new Padding(8,0,0,0)};footer.Controls.Add(status,0,0);
+            var credit=new LinkLabel{Name="AuthorCredit",Text="by Beld",Dock=DockStyle.Fill,TextAlign=ContentAlignment.MiddleRight,Margin=Padding.Empty,LinkColor=LuckyTheme.Gold,ActiveLinkColor=LuckyTheme.Text,VisitedLinkColor=LuckyTheme.Gold,AccessibleDescription="Steam: https://steamcommunity.com/id/Beldherder/"};
+            credit.Links.Clear();credit.Links.Add(0,credit.Text.Length,"https://steamcommunity.com/id/Beldherder/");
+            credit.LinkClicked+=(s,e)=>{try{System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo((string)e.Link.LinkData){UseShellExecute=true});}catch(Exception ex){MessageBox.Show(this,ex.Message,"Steam",MessageBoxButtons.OK,MessageBoxIcon.Information);}};
+            footer.Controls.Add(credit,1,0);
             Map.PointPicked=p=>{bool position=Map.Mode=="position";(position?PositionFormat:TargetFormat).SelectedIndex=1;SetPoint(position,p);};
             Map.Hover=p=>status.Text=Coordinates.Valid(p)?String.Format(CultureInfo.InvariantCulture,"Клетка {0}  ·  X {1:0.0} м   Z {2:0.0} м   |   Орудие {3}",Coordinates.Grid(p),p.X,p.Z,Fleet.ActiveId):"Вне границ карты";
             LuckyTheme.Style(body);InstallCalculationTips();
