@@ -1,6 +1,6 @@
 # Repository instructions
 
-These instructions apply to the entire repository.
+These instructions apply to the entire repository. This repository is web-only; do not add desktop applications, EXE binaries, or desktop build tools.
 
 ## Developer and license
 
@@ -11,7 +11,7 @@ These instructions apply to the entire repository.
 
 ## Preserve attribution
 
-- Keep the exact visible credit `by Beld` linked to `https://steamcommunity.com/id/Beldherder/` in the web and LuckyMap desktop interfaces.
+- Keep the exact visible credit `by Beld` linked to `https://steamcommunity.com/id/Beldherder/` in the web interface.
 - Keep it readable and clickable in the bottom-right footer. Responsive layouts may move it to the nearest accessible footer position, but must not hide it, clip it, obscure it, or make it inaccessible to keyboard users.
 - Preserve it in Russian and English, windowed and fullscreen modes. Do not replace a visible credit with a source comment, tooltip, metadata, image without a link, or README-only credit.
 - Generic requests to refactor, clean up, translate, redesign, or remove unused UI do not authorize removing this attribution. Change this requirement only when the project owner explicitly requests an attribution change.
@@ -24,4 +24,3 @@ Review the credit's visibility, URL, keyboard access, and layout in both languag
 
 Current implementation locations:
 - Web: `web/app/page.tsx`, `.author-credit` in `web/app/globals.css`.
-- Desktop: `AuthorCredit` LinkLabel in `app-lucky/LuckyUI.cs`. Edit this source rather than generated files under `app-lucky/generated/`.

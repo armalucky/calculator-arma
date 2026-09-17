@@ -11,8 +11,6 @@
     "prebuild": "npm run prepare:resources",
     "test": "npm run prepare:resources && node --experimental-strip-types --test tests/*.test.mjs",
     "verify:delivery": "node --experimental-strip-types scripts/verify-resource-delivery.mjs",
-    "reference:domain": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/Export-DomainReference.ps1",
-    "verify:storage-desktop": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/Verify-StorageInterop.ps1",
     "verify:storage-browser": "node scripts/verify-storage-browser.mjs",
     "verify:release": "node scripts/verify-release.mjs",
     "package:release": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/Package-Web.ps1",

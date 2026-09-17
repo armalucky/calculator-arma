@@ -29,9 +29,10 @@ function compare(actual, expected, label) {
   }
 }
 
-test('C# oracle corresponds to unchanged desktop sources and data', async () => {
-  for (const [path, hash] of Object.entries(reference.SourceHashes)) {
-    assert.equal(createHash('sha256').update(await readFile(new URL(path, root))).digest('hex'), hash, `Regenerate C# oracle after intentional source changes: ${path}`);
+test('Frozen C# oracle corresponds to unchanged game data', async () => {
+  // Desktop source hashes remain provenance only; this standalone repository ships game data.
+  for (const [path, hash] of Object.entries(reference.SourceHashes).filter(([path]) => path.startsWith('data/'))) {
+    assert.equal(createHash('sha256').update(await readFile(new URL(path, root))).digest('hex'), hash, `Review and regenerate reference data after intentional game data changes: ${path}`);
   }
   assert.equal(tables.length, reference.TableCount);
   assert.equal(indexes.real.Count, reference.RoadCount);
